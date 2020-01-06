@@ -1,0 +1,7 @@
+gift.content:
+  path: '/gift'
+  defaults:
+    _controller: '\Drupal\gift\Controller\GiftController::content'
+    _title: 'Christmas gift'
+  requirements:
+    _permission: 'access content'
