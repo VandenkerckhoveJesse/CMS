@@ -1,12 +1,3 @@
-# Commerce 2.x demo project template
-
-Use [Composer](https://getcomposer.org/) to get Drupal + Commerce 2.x + demo content.
-
-Based on [drupalcommerce/project-base](https://github.com/drupalcommerce/project-base), plus
-a [custom theme](https://drupal.org/project/belgrade) and [demo content](https://drupal.org/project/commerce_demo).
-
-![Belgrade product example](assets/belgrade-product.jpg)
-
 ## Usage
 
 First you need to [install composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx).
